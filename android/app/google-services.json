@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "286320074353",
+    "firebase_url": "https://desai-farms-bd04b-default-rtdb.firebaseio.com",
+    "project_id": "desai-farms-bd04b",
+    "storage_bucket": "desai-farms-bd04b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286320074353:android:98e76ff37ba60cd3c6c5d0",
+        "android_client_info": {
+          "package_name": "com.example.desaifarms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "api_key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
